@@ -1,0 +1,5 @@
+nohup: 忽略输入
+Primary config directory not found.
+Check that the config directory '/home/zhujingqi/MultiAgent/CrowdNavigationMPC/curiosity_rl/training/cfg' exists and readable
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
